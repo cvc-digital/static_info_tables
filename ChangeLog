@@ -1,3 +1,9 @@
+2020-04-20
+    * Support TYPO3 10 LTS
+    * Support PHP 7.4
+    * Update version to 6.8.0
+
+
 2020-01-05  Stanislas Rolland  <typo3(arobas)sjbr.ca>
 
 	* Resolves #88867: Raise PHP dependency to < 7.4
